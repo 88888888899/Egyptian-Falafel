@@ -7,9 +7,12 @@
     }
 
     .header img{
-      width :280px;
-      height :150px;
+      width :300px;
+      height :200px;
       padding:20px;
+
+
+
 
     }
     .navbar-right{
@@ -37,7 +40,7 @@
       color: black;
       text-align: center;
       text-decoration: none;
-      font-size: 15px;
+      font-size: 25px;
     }
 
     /* Add a color to the active/current link */
@@ -62,7 +65,7 @@
 
     #about
     {
-        background-image: url("../images/falafel.jpg");
+
         background-size: auto;
         background-position: right   ;
         padding-right: 10%;
